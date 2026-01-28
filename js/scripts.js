@@ -193,7 +193,7 @@ var myCalendar = createCalendar({
 
         address: 'Spadina House, 285 Spadina Rd, Toronto, ON M5R 2V5',
 
-        description: "We can't wait to see you on our big day! The ceremony will take place at Spadina House, 285 Spadina Rd, Toronto, ON M5R 2V5, with a reception to follow at Cluny Bistro, 35 Tank House Lane, Toronto, ON M5A 3C4."
+        description: "We can't wait to see you on our big day! The ceremony will begin at 4 pm at Spadina House, 285 Spadina Rd, Toronto, ON M5R 2V5, with a reception to follow at Cluny Bistro, 35 Tank House Lane, Toronto, ON M5A 3C4."
     }
 });
 
